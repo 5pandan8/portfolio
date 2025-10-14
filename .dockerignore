@@ -1,3 +1,6 @@
 # Ignore git repo files
 .git
 .gitignore
+
+# Ignore kubernetes YAML files
+Kubernetes 
